@@ -1,3 +1,3 @@
 # Welcome!
 
-	This is gensokyo.zone.
+This is gensokyo.zone.
