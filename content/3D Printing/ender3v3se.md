@@ -4,6 +4,8 @@ date: 2024-08-07
 draft: false
 ---
 
+[[ender3v3se-changelog]]
+
 # Slicer Configuration
 
 * I've been using [Ultimaker Cura](https://ultimaker.com/software/ultimaker-cura/) as the slicer for this printer, though I've edited the start and end gcode to be `START_GCODE` and `END_GCODE` respectively so that Klipper can handle the start and end automation alongside having changed the bed to the full 230x230mm size.
