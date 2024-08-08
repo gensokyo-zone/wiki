@@ -4,6 +4,12 @@ date: 2024-08-03
 draft: false
 ---
 
+# Slicer Configuration
+
+* I've been using [Ultimaker Cura](https://ultimaker.com/software/ultimaker-cura/) as the slicer for this printer, though I've edited the start and end gcode to be `START_GCODE` and `END_GCODE` respectively so that Klipper can handle the start and end automation alongside having changed the bed to the full 230x230mm size.
+* I also use [OctoPrint Connection](https://marketplace.ultimaker.com/app/cura/plugins/fieldofview/OctoPrintPlugin) for Cura so that it can hook up to the pretend OctoPrint API running on Moonraker.
+	* To generate an API key for the plugin, go to the Fluidd authentication settings and hit API key.
+
 # Equipment
 
 * [Replacement extruder silicone socks](https://www.amazon.ca/gp/product/B0CJTZTZ9S)
