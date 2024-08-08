@@ -20,6 +20,7 @@ draft: false
 * [Dual-sided printing platform, glossy PET and coated PEI](https://www.amazon.ca/gp/product/B0CQNVKWYZ)
   * The PET sticker surface is the patterned surface, which tolerates up to 80C and is good for PLA, PETG and TPU.
   * The coated PEI is the frosted surface and can be used for PLA, PETG, ABS, TPU, ASA, PET, PA, PC, ...
+
 # Failed Upgrades
 
 ## LED Strip
@@ -38,6 +39,56 @@ Current status:
 Current status:
 * An attempt at performing the install occurred on 2024-08-02.
 * The aluminium frame binding against the plastic caused the wires for power and data to be broken in the process.
+
+# Future Upgrades
+
+Threads:
+* https://www.reddit.com/r/Ender3V3SE/comments/1avet55/upgrades_to_the_ender3_v3_se
+
+## Y-axis Linear Rails
+
+[Printables](https://www.printables.com/model/694446-ender-3-v3-se-ke-d3d-y-rails)
+[GitHub](https://github.com/DerrickDarrell/Creality-Ender-3-V3-SE-KE/tree/main/SE%2BKE%20Y%20Rails%20Conversion)
+
+Materials:
+* MGN12H rails (300mm length)
+* M3x3x5mm heat inserts
+* x2 - M3x14mm screws (front mount - stepper)
+* x2 - M3x20mm screws (front mount - stepper)
+* x16 - M3x8mm SHCS screws (Linear Rails)
+* x4 - M4x20mm screws (rear mount - ONLY USE 20MM SCREWS)
+* X8 - M3x6mm BHCS screws (rail carriage)
+* x6 - M3x8mm BHCS screws (bed frame)
+* x2 - M3x10mm screws (bed frame)
+
+## X-axis Linear Rails
+
+[Printables](https://www.printables.com/model/716958-linear-x-rail-mod-ender-3-v3-se)
+
+Materials:
+* 1xMGN9C 300mm Linear Rail (Make sure to click on the correct item before purchasing) - [https://www.aliexpress.com/item/1005002516956172.html?](https://www.aliexpress.com/item/1005002516956172.html?)
+* 2xMGN9 Alignment tool - [https://www.thingiverse.com/thing:3533580](https://www.thingiverse.com/thing:3533580)
+* 3xM5-0.8x10mm Flat Round Head Screws - [https://amzn.eu/d/g4peaSg](https://amzn.eu/d/g4peaSg)
+* 7xM3 drop in T nut - [https://www.aliexpress.com/item/1005005751429865.html?](https://www.aliexpress.com/item/1005005751429865.html?)
+* 11xM3x12mm Screws
+* 4xM3 washers
+
+## Some form of parts fan and extruder fan upgrades
+
+Probably dual 5015 and a 4020?
+
+## ABS + ASA Printing Capacity
+
+* Enclosure
+* All-metal hot end with ceramic heating kit
+
+## Gantry Support
+
+[Printables](https://www.printables.com/cs/model/730007-ender-3-v3-se-ke-gantry-support)
+
+Materials:
+* M4 bolts and nuts
+* 1 meter of M10 threaded shaft divided in two
 
 # Calibration
 
