@@ -1,6 +1,6 @@
 ---
 title: Ender 3 V3 SE
-date: 2024-08-03
+date: 2024-08-07
 draft: false
 ---
 
@@ -44,7 +44,7 @@ Current status:
 
 Threads:
 * https://www.reddit.com/r/Ender3V3SE/comments/1avet55/upgrades_to_the_ender3_v3_se
-
+			
 ## Y-axis Linear Rails
 
 [Printables](https://www.printables.com/model/694446-ender-3-v3-se-ke-d3d-y-rails)
