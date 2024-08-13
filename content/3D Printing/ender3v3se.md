@@ -23,6 +23,11 @@ draft: false
   * The PET sticker surface is the patterned surface, which tolerates up to 80C and is good for PLA, PETG and TPU.
   * The coated PEI is the frosted surface and can be used for PLA, PETG, ABS, TPU, ASA, PET, PA, PC, ...
 
+# Installed Upgrades
+
+* [608 bearing filament spool holder](https://www.printables.com/model/792537-ender-3-v3-se-608-bearing-filament-spool-and-sampl/) - The body and pins are printed at 40% infill. The roller and the spacers were printed at 20% infill.
+* [90 degree offset spool adapter](https://www.thingiverse.com/thing:6631744) - This was printed at 40% infill, I think?
+
 # Failed Upgrades
 
 ## LED Strip
