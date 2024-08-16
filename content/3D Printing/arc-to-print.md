@@ -7,7 +7,7 @@ draft: false
 ## Queue
 
 - [x] [Raspberry Pi B case](https://www.thingiverse.com/thing:4384009)
-- [ ] Ring stand (Taro filament)
+- [x] Ring stand (Taro filament)
 
 ## Wishlist
 
