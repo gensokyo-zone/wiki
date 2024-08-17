@@ -15,7 +15,8 @@
 	* flash remaining S31 devices with ESPHome
 * tablet
 	* take backup of Tachiyomi, web novels, ...
-	* https://xdaforums.com/t/official-sm-t505-sm-t505n-sm-t505c-sm-t507-gta4l-sm-t500-gta4lwifi-lineageos-21-for-galaxy-tab-a7-2020-lte-wifi-version.4576699/ for tablet
+	* set up recovery
+	* install https://xdaforums.com/t/official-sm-t505-sm-t505n-sm-t505c-sm-t507-gta4l-sm-t500-gta4lwifi-lineageos-21-for-galaxy-tab-a7-2020-lte-wifi-version.4576699/
 * TCL TV (bedroom)
 	* take notes about installed apps, ...
 	* reinstall
@@ -37,6 +38,9 @@
 	* bathroom mirror
 	* display cases
 	* laptops
+		* abby's
+		* kat's
+		* logistics
 	* monitor (kat)
 	* monitors (abby)
 	* windows behind the samsung tv
