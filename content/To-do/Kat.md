@@ -33,3 +33,4 @@
 	* clean up floor
 				* clean up spare bags, etc...
 * wipe 2tb hard drive
+* clean all monitors, tvs and mirrors
