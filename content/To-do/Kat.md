@@ -1,7 +1,7 @@
 * 3d prints
 	* design PSU and MCU cover for led strip
-	* print mount for table air purifier PSU
-	* Google home holder - https://www.thingiverse.com/thing:2912109 x2
+	* ~~print mount for table air purifier PSU~~
+	* ~~Google home holder - https://www.thingiverse.com/thing:2912109 x2~~
 * figure repair with superglue
 	* teach sweetie to use new superglue bottle
 * Sonoff S31
@@ -16,7 +16,7 @@
 * tablet
 	* take backup of Tachiyomi, web novels, ...
 	* https://xdaforums.com/t/official-sm-t505-sm-t505n-sm-t505c-sm-t507-gta4l-sm-t500-gta4lwifi-lineageos-21-for-galaxy-tab-a7-2020-lte-wifi-version.4576699/ for tablet
-* TV
+* TCL TV (bedroom)
 	* take notes about installed apps, ...
 	* reinstall
 * phone
@@ -33,4 +33,17 @@
 	* clean up floor
 				* clean up spare bags, etc...
 * wipe 2tb hard drive
-* clean all monitors, tvs and mirrors
+* clean all monitors, windows, glass, tvs and mirrors
+	* bathroom mirror
+	* display cases
+	* laptops
+	* monitor (kat)
+	* monitors (abby)
+	* windows behind the samsung tv
+	* windows in abby and kat's bedroom
+	* tcl tv (bedroom)
+	* samsung tv (living room)
+* dusting
+	* fumos
+	* entertainment centre side-table
+	* entertainment centre
