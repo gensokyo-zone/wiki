@@ -1,7 +1,8 @@
 * 3d prints
-	* design PSU and MCU cover for led strip
 	* ~~print mount for table air purifier PSU~~
 	* ~~Google home holder - https://www.thingiverse.com/thing:2912109 x2~~
+	* design PSU and MCU cover for led strip
+		* printed one temporarily that already exists while waiting for a C14 socket
 * figure repair with superglue
 	* teach sweetie to use new superglue bottle
 * Sonoff S31
@@ -32,22 +33,23 @@
 	* obtain shelves - https://www.ikea.com/ca/en/p/hejne-shelf-unit-softwood-s79031414/ ?
 		* store boxes more sanely
 	* clean up floor
-				* clean up spare bags, etc...
+	* clean up spare bags, etc...
 * wipe 2tb hard drive
-* clean all monitors, windows, glass, tvs and mirrors
-	* bathroom mirror
-	* display cases
-	* laptops
-		* abby's
-		* kat's
-		* logistics
-	* monitor (kat)
-	* monitors (abby)
-	* windows behind the samsung tv
-	* windows in abby and kat's bedroom
-	* tcl tv (bedroom)
-	* samsung tv (living room)
+* ~~clean all monitors, windows, glass, tvs and mirrors~~
+	* ~~bathroom mirror~~
+	* ~~laptops~~
+		* ~~abby's~~
+		* ~~kat's~~
+	* ~~monitor (kat)~~
+	* ~~monitors (abby)~~
+	* ~~windows behind the samsung tv~~
+	* ~~windows in abby and kat's bedroom~~
+	* ~~liz balcony doors~~
+	* ~~balcony door~~
+	* ~~tcl tv (bedroom)~~
+	* ~~samsung tv (living room)~~
 * dusting
 	* fumos
+	* display cabinet
 	* entertainment centre side-table
-	* entertainment centre
+		* entertainment centre
