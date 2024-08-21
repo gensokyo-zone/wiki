@@ -14,10 +14,10 @@
 		* attach dupont connectors to pogo-pins
 		* attach to serial flasher
 	* flash remaining S31 devices with ESPHome
-* tablet
-	* take backup of Tachiyomi, web novels, ...
-	* set up recovery
-	* install https://xdaforums.com/t/official-sm-t505-sm-t505n-sm-t505c-sm-t507-gta4l-sm-t500-gta4lwifi-lineageos-21-for-galaxy-tab-a7-2020-lte-wifi-version.4576699/
+* ~~tablet~~
+	* ~~take backup of Tachiyomi, web novels, ...~~
+	* ~~set up recovery~~
+	* ~~install https://xdaforums.com/t/official-sm-t505-sm-t505n-sm-t505c-sm-t507-gta4l-sm-t500-gta4lwifi-lineageos-21-for-galaxy-tab-a7-2020-lte-wifi-version.4576699/ ~~
 * TCL TV (bedroom)
 	* take notes about installed apps, ...
 	* reinstall
