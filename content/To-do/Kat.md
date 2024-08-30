@@ -53,3 +53,21 @@
 	* display cabinet
 	* entertainment centre side-table
 		* entertainment centre
+
+## Inbox
+
+Incoming tasks to prioritise or ignore:
+
+* follow up with work
+* create meal cards
+* replace compass card
+* fruit portion randomization
+* tidy cubby space and floor (we can find space somewhere for all the boxes...)
+* oil wooden spoons and boards
+* print [bbuddy mode-switch barcodes](https://github.com/Forceu/barcodebuddy/tree/master/example/defaultBarcodes) as a little explainer document
+* clean oven
+* put up insect mesh
+* show how to install bs mods on headset user
+* letter about rose bushes
+* reassemble printer gantry to remove/fix failed upgrades
+* occasional cute little bricks!
