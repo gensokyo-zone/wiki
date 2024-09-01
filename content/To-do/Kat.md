@@ -5,6 +5,8 @@
 		* printed one temporarily that already exists while waiting for a C14 socket
 * figure repair with superglue
 	* teach sweetie to use new superglue bottle
+* update resume
+	* request letter of reference correctly
 * Sonoff S31
 	* programming jig
 		* go to VHS, check if they have a .7mm drill bit
@@ -24,35 +26,20 @@
 * phone
 	* backup
 	* reinstall
-* desktop
-	* backup
-	* develop win11 auto-setup script (for winget, ...)
-	* reinstall
+* ~~desktop~~
+	* ~~backup~~
+	* ~~develop win11 auto-setup script (for winget, ...)~~
+	* ~~reinstall~~
 * kat's room
 	* mount kvm and thinkpad dock to desk properly
 	* obtain shelves - https://www.ikea.com/ca/en/p/hejne-shelf-unit-softwood-s79031414/ ?
 		* store boxes more sanely
-	* clean up floor
+	* ~~clean up floor~~
 	* clean up spare bags, etc...
 * wipe 2tb hard drive
-* ~~clean all monitors, windows, glass, tvs and mirrors~~
-	* ~~bathroom mirror~~
-	* ~~laptops~~
-		* ~~abby's~~
-		* ~~kat's~~
-	* ~~monitor (kat)~~
-	* ~~monitors (abby)~~
-	* ~~windows behind the samsung tv~~
-	* ~~windows in abby and kat's bedroom~~
-	* ~~liz balcony doors~~
-	* ~~balcony door~~
-	* ~~tcl tv (bedroom)~~
-	* ~~samsung tv (living room)~~
 * dusting
-	* fumos
-	* display cabinet
 	* entertainment centre side-table
-		* entertainment centre
+	* entertainment centre
 
 ## Inbox
 
