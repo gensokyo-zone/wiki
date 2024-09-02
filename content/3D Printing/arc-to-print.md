@@ -11,6 +11,7 @@ draft: false
 
 ## Wishlist
 
+- Bedside cup and/or water bottle holder
 - Parchment paper roll holder
 - Laptop vertical storage stand
 - Print/design enclosure for LED strip power supply
