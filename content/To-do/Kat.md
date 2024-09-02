@@ -50,6 +50,8 @@ Incoming tasks to prioritise or ignore:
 * replace compass card
 * fruit portion randomization
 * tidy cubby space and floor (we can find space somewhere for all the boxes...)
+* try cyoobs from qosmetics
+* BS PC optimization tips?
 * oil wooden spoons and boards
 * print [bbuddy mode-switch barcodes](https://github.com/Forceu/barcodebuddy/tree/master/example/defaultBarcodes) as a little explainer document
 * clean oven
