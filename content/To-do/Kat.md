@@ -36,10 +36,19 @@
 		* store boxes more sanely
 	* ~~clean up floor~~
 	* clean up spare bags, etc...
-* wipe 2tb hard drive
 * dusting
 	* entertainment centre side-table
 	* entertainment centre
+* backups
+	* figure out phone backups
+	* figure out calibre / kindle
+	* figure out tablet backups
+	* create veracrypt containers for what need protection, e.g. keys, ...
+	* ~~create mount on reisen for using the hard drive instead~~
+	* go through 2tb drive and figure out repurposing it as a second backup
+		* figure out a mechanism for automating this?
+	* limited backup on daiyousei in fully encrypted format, updated monthly?
+
 
 ## Inbox
 
@@ -53,8 +62,8 @@ Incoming tasks to prioritise or ignore:
 * try cyoobs from qosmetics
 * BS PC optimization tips?
 * oil wooden spoons and boards
-* print [bbuddy mode-switch barcodes](https://github.com/Forceu/barcodebuddy/tree/master/example/defaultBarcodes) as a little explainer document
-* clean oven
+* ~~print [bbuddy mode-switch barcodes](https://github.com/Forceu/barcodebuddy/tree/master/example/defaultBarcodes) as a little explainer document~~
+* ~~clean oven~~
 * put up insect mesh
 * show how to install bs mods on headset user
 * letter about rose bushes
