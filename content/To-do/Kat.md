@@ -40,7 +40,7 @@
 	* entertainment centre side-table
 	* entertainment centre
 * backups
-	* figure out phone backups
+	* ~~figure out phone backups~~
 	* figure out calibre / kindle
 	* figure out tablet backups
 	* create veracrypt containers for what need protection, e.g. keys, ...
