@@ -42,7 +42,7 @@
 * backups
 	* ~~figure out phone backups~~
 	* figure out calibre / kindle
-	* figure out tablet backups
+	* ~~figure out tablet backups~~
 	* create veracrypt containers for what need protection, e.g. keys, ...
 	* ~~create mount on reisen for using the hard drive instead~~
 	* go through 2tb drive and figure out repurposing it as a second backup
