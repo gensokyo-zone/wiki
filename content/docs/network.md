@@ -63,6 +63,9 @@ keycloak
 kasen  
 `10.1.1.49`
 
+sakuya  
+`10.1.1.50`
+
 nue  
 `10.1.1.62`
 

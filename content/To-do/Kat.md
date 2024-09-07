@@ -67,5 +67,6 @@ Incoming tasks to prioritise or ignore:
 * put up insect mesh
 * show how to install bs mods on headset user
 * letter about rose bushes
+* letter to pump station about ply
 * reassemble printer gantry to remove/fix failed upgrades
 * occasional cute little bricks!
