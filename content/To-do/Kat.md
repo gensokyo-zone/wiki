@@ -54,11 +54,14 @@
 
 Incoming tasks to prioritise or ignore:
 
+* health survey!!
+* transfer/disown airtags
 * follow up with work
 * create meal cards
 * replace compass card
 * fruit portion randomization
 * tidy cubby space and floor (we can find space somewhere for all the boxes...)
+* tell void man he should upload an updated STL for the pinecil dock
 * try cyoobs from qosmetics
 * BS PC optimization tips?
 * oil wooden spoons and boards
