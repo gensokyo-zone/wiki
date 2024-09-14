@@ -12,6 +12,7 @@ draft: false
 
 ## Wishlist
 
+- Razer Naga panel stand (but truncated to 2-wide grid)
 - X2HR accessories
   - microphone mount: [1](https://www.printables.com/model/698366) [2](https://makerworld.com/en/models/392909)
   - [ear pad rings](https://www.thingiverse.com/thing:4887941)
@@ -20,3 +21,4 @@ draft: false
 - Parchment paper roll holder
 - Laptop vertical storage stand
 - Print/design enclosure for LED strip power supply
+- mangetic cable management clip things (ltt style?)
