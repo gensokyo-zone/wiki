@@ -4,7 +4,9 @@ date: 2024-08-07
 draft: false
 ---
 
-* 2024-08-13 - The spool holder bearing modification's body was broken, presumably due to being printed in 20% infill. This is being rectified by printing it again in 40%.
+* 2024-09-07 - Klipper was moved to running on a Pine A64. The printer itself was moved over to Kat's Office.
+* 2024-09-06 - The LED strip and filament sensor upgrades were successfully installed.
+* 2024-08-13 - The spool holder bearing modification's body was broken, presumably due to being printed in 20% infill. This was rectified by printing it again in 40%.
 * 2024-08-10 - The spool holder adapter and bearing modifications were installed.
 * 2024-08-07 - Fluidd properly exposed on print.gensokyo.zone.
 * 2024-08-06 - Got Klipper + Moonraker + Fluidd operational over localhost.

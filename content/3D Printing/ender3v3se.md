@@ -6,6 +6,7 @@ draft: false
 
 [[ender3v3se-changelog|Printer Changelog]]
 
+Current Nozzle: .6mm
 # Slicer Configuration
 	
 * I've been using [Ultimaker Cura](https://ultimaker.com/software/ultimaker-cura/) as the slicer for this printer, though I've edited the start and end gcode to be `start_print BED_TEMP={material_bed_temperature_layer_0} EXTRUDER_TEMP={material_print_temperature_layer_0}` and `end_print` respectively so that Klipper can handle the start and end automation alongside having changed the bed to the full 230x230mm size.
@@ -28,24 +29,25 @@ draft: false
 * [608 bearing filament spool holder](https://www.printables.com/model/792537-ender-3-v3-se-608-bearing-filament-spool-and-sampl/) - The body and pins are printed at 40% infill. The roller and the spacers were printed at 20% infill.
 * [90 degree offset spool adapter](https://www.thingiverse.com/thing:6631744) - This was printed at 40% infill, I think?
 
-# Failed Upgrades
-
 ## LED Strip
 
 [Product Page](https://www.amazon.ca/gp/product/B0CM3KT9CY)
 
 Current status:
+* On 2024-09-06, this upgrade was successfully repaired and installed.
 * An attempt at performing the install occurred on 2024-08-02.
-* The aluminium frame binding against the plastic caused the wires for the power to short 24V to ground and be broken in the process.
-* The wires that hook up to the power supply need to be replaced in some fashion.
+	* The aluminium frame binding against the plastic caused the wires for the power to short 24V to ground and be broken in the process.
+	* The wires that hook up to the power supply need to be replaced in some fashion.
 
 ## Filament Runout Sensor
 
 [Product Page](https://www.amazon.ca/gp/product/B0CP5ZFCGN)
 
 Current status:
+* On 2024-09-06, this upgrade was successfully repaired and installed.
 * An attempt at performing the install occurred on 2024-08-02.
-* The aluminium frame binding against the plastic caused the wires for power and data to be broken in the process.
+	* The aluminium frame binding against the plastic caused the wires for power and data to be broken in the process.
+	* The wires that hook up to the power supply need to be replaced in some fashion.
 
 # Future Upgrades
 

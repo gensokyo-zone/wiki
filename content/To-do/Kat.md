@@ -6,7 +6,8 @@
 * figure repair with superglue
 	* teach sweetie to use new superglue bottle
 * update resume
-	* request letter of reference correctly
+	* ~~request letter of reference correctly~~
+* ~~make remote holder 2x command strips~~
 * Sonoff S31
 	* programming jig
 		* go to VHS, check if they have a .7mm drill bit
@@ -48,6 +49,7 @@
 	* go through 2tb drive and figure out repurposing it as a second backup
 		* figure out a mechanism for automating this?
 	* limited backup on daiyousei in fully encrypted format, updated monthly?
+* build shelves
 
 
 ## Inbox
@@ -71,5 +73,5 @@ Incoming tasks to prioritise or ignore:
 * show how to install bs mods on headset user
 * letter about rose bushes
 * letter to pump station about ply
-* reassemble printer gantry to remove/fix failed upgrades
+* ~~reassemble printer gantry to remove/fix failed upgrades~~
 * occasional cute little bricks!
