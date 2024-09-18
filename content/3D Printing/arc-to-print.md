@@ -22,3 +22,19 @@ draft: false
 - Laptop vertical storage stand
 - Print/design enclosure for LED strip power supply
 - mangetic cable management clip things (ltt style?)
+
+## Printer Improvements
+
+- [ ] [Probe Calibration](https://www.klipper3d.org/Probe_Calibrate.html#repeatability-check)
+- [ ] try out the `SEARCH_VARS` macro
+- [ ] printer should be able to home at back of bed
+  - hopefully `PROBE` can be used anywhere?
+  - can a command like `G30` force the kinematics to lose position?
+  - include as part of the resume print workflow
+- [ ] improved start macro
+  - heat roughly to 160 while waiting for bed
+  - draw line while heating nozzle to prevent curling
+  - retract slightly at end of print (`G1 E-10` for 10mm for example?)
+- [ ] babystepping UI via `SET_GCODE_OFFSET MOVE=0 X_ADJUST=+0.005`?
+- check why printer bed axis is crunchy sounding when printing sometimes...
+  bedslinger(y) accel or jerk may be set too high?
