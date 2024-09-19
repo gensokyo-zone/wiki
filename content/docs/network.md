@@ -66,6 +66,9 @@ kasen
 sakuya  
 `10.1.1.50`
 
+minecraft  
+`10.1.1.51`
+
 nue  
 `10.1.1.62`
 
