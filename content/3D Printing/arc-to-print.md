@@ -26,11 +26,13 @@ draft: false
 ## Printer Improvements
 
 - [ ] [Probe Calibration](https://www.klipper3d.org/Probe_Calibrate.html#repeatability-check)
-- [ ] try out the `SEARCH_VARS` macro
+- [x] try out the `SEARCH_VARS` macro
+- [x] calculate difference between toolhead current position, probe last position, etc
 - [ ] printer should be able to home at back of bed
-  - hopefully `PROBE` can be used anywhere?
+  - [ ] include as part of the resume print workflow if not homed
   - can a command like `G30` force the kinematics to lose position?
-  - include as part of the resume print workflow
+    - `M84` stops motors and loses position
+    - is `M18` implemented?
 - [ ] improved start macro
   - heat roughly to 160 while waiting for bed
   - draw line while heating nozzle to prevent curling
