@@ -2,8 +2,6 @@
 title: "Minecraft Server"
 ---
 
-World backups are [available for download](https://gensokyo.zone/minecraft/backups/).
-
 # Connection Details
 
 Host:  
@@ -14,4 +12,11 @@ see the Discord channel for more information.
 
 # Mods
 
-[Kat's Kitchen Sink NeoForge modpack](https://github.com/kittywitch/minecraft-modpack)
+Kat's [marka](https://github.com/kittywitch/minecraft-modpack) modpack:  
+[download for MultiMC](https://gensokyo.zone/minecraft/downloads/marka-multimc.zip)
+
+# World
+
+[View Online](https://gensokyo.zone/minecraft/map/)
+
+World backups are [available for download](https://gensokyo.zone/minecraft/backups/).
