@@ -15,5 +15,5 @@ echo /asdf > /run/minecraft-java/stdin
 # Imperative Updates
 
 ```bash
-sudo -u minecraft-bedrock -D /mnt/shared/minecraft/java/marka-server ./update.sh
+sudo -u minecraft-bedrock env -C /mnt/shared/minecraft/java/marka-server ./update.sh
 ```

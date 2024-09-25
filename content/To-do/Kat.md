@@ -58,6 +58,8 @@ Incoming tasks to prioritise or ignore:
 
 * health survey!!
 * lace boots
+* tell pharmacy about bottle thing
+* small fan
 * buy a roll of plain wall paper, wallpaper paste, a tiny paint brush and get several of the walls here colour-matched in paint.
     also some wall filler would probably be sensible
 * ~~transfer/disown airtags~~

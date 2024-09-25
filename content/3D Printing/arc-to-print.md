@@ -8,11 +8,13 @@ draft: false
 
 - [x] [Raspberry Pi B case](https://www.thingiverse.com/thing:4384009)
 - [x] Ring stand (Taro filament)
-- [ ] Outlet blank cover for bedroom
+- [x] [Outlet blank cover](https://www.printables.com/model/593140-electrical-wall-plates-outlet-covers-and-light-dim) for bedroom
+- [ ] Razer Naga panel stand (truncated to 2-wide grid)
+  - [x] bottom
+  - [ ] top
 
 ## Wishlist
 
-- Razer Naga panel stand (but truncated to 2-wide grid)
 - X2HR accessories
   - microphone mount: [1](https://www.printables.com/model/698366) [2](https://makerworld.com/en/models/392909)
   - [ear pad rings](https://www.thingiverse.com/thing:4887941)
