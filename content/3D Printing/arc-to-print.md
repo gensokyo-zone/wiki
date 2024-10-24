@@ -9,6 +9,7 @@ draft: false
 - [x] [Raspberry Pi B case](https://www.thingiverse.com/thing:4384009)
 - [x] Ring stand (Taro filament)
 - [x] [Outlet blank cover](https://www.printables.com/model/593140-electrical-wall-plates-outlet-covers-and-light-dim) for bedroom
+- [ ] re-print [toothpaste squeezer](https://www.thingiverse.com/thing:1147252) shaft
 - [ ] Razer Naga panel stand (truncated to 2-wide grid)
   - [x] bottom
   - [ ] top
@@ -30,10 +31,11 @@ draft: false
 - [ ] [Probe Calibration](https://www.klipper3d.org/Probe_Calibrate.html#repeatability-check)
 - [x] try out the `SEARCH_VARS` macro
 - [x] calculate difference between toolhead current position, probe last position, etc
+- what is `M82` and `M83` sets extruder to relative and `M82` undoes it?
+- how does `G92 E0` work?
 - [ ] printer should be able to home at back of bed
   - [ ] include as part of the resume print workflow if not homed
-  - can a command like `G30` force the kinematics to lose position?
-    - `M84` stops motors and loses position
+  - `M84` stops motors and loses position
     - is `M18` implemented?
 - [ ] improved start macro
   - heat roughly to 160 while waiting for bed

@@ -56,8 +56,7 @@
 
 Incoming tasks to prioritise or ignore:
 
-* health survey!!
-* lace boots
+* order imports and stuff from [the scottish loft](https://www.scottishloft.com/)?
 * tell pharmacy about bottle thing
 * small fan
 * buy a roll of plain wall paper, wallpaper paste, a tiny paint brush and get several of the walls here colour-matched in paint.
@@ -67,9 +66,9 @@ Incoming tasks to prioritise or ignore:
 * ~~create meal cards~~
 * replace compass card
 * fruit portion randomization
-* tidy cubby space and floor (we can find space somewhere for all the boxes...)
+* ~~tidy cubby space and floor (we can find space somewhere for all the boxes...)~~
 * tell void man he should upload an updated STL for the pinecil dock
-* try cyoobs from qosmetics
+* ~~try cyoobs from qosmetics~~
 * BS PC optimization tips?
 * oil wooden spoons and boards
 * ~~print [bbuddy mode-switch barcodes](https://github.com/Forceu/barcodebuddy/tree/master/example/defaultBarcodes) as a little explainer document~~

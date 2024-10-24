@@ -21,6 +21,9 @@ gensokyo
 eientei  
 `10.1.1.5`
 
+kvm-reisen  
+`10.1.1.9`
+
 shanghai  
 `10.1.1.32`
 
